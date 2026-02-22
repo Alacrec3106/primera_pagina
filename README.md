@@ -26,7 +26,9 @@ Solo necesitaras un navegador web para poderlo visualizar correctamente.
 
 - **Email**: cespinc2000@alumno.ipn.mx
 
-- **GitHub**: [Mi repositorio](https://github.com)
+- **GitHub**: [Mi primera pagina](https://github.com/Alacrec3106/primera_pagina.gitm)
+
+-**GitHubPages**:[https://alacrec3106.github.io/primera_pagina/]
 
 
 *Última actualización: 21/02/2026*
